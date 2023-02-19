@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+}
+.logo {
+    height: 100px;
+}
+a {
+    text-decoration: none;
+}
+ul li{
+    list-style-type: none;
+}
+img {
+    height: 300px;
+}
